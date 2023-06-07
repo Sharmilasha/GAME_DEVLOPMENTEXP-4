@@ -43,10 +43,12 @@ TO IMPLEMENT SCORE WEIGHT:
 8.Optional: Add visual and audio feedback: To enhance the player's experience, you can consider adding visual and audio feedback when a bullet hits an object. For example, you might display a particle effect or play a sound effect to signify a successful hit
 ~~~
 OUTPUT:
+~~~
 ![GU](https://github.com/Sharmilasha/GAME_DEVLOPMENTEXP-4/assets/94506182/ac4f70d5-d1f2-4989-b1bf-dc5fad265c3c)
 ![BBB](https://github.com/Sharmilasha/GAME_DEVLOPMENTEXP-4/assets/94506182/389cddb7-d01a-4b51-ae87-e9e7619b4009)
 ![VV](https://github.com/Sharmilasha/GAME_DEVLOPMENTEXP-4/assets/94506182/17bd1dc3-c793-4aaf-96eb-1f63bc602fa7)
 ![GN](https://github.com/Sharmilasha/GAME_DEVLOPMENTEXP-4/assets/94506182/5d1892d3-78d8-4d60-a919-7a586dc57614)
+~~~
 ##RESULT:
 To Attach Rifle with character mesh and implementation bullet spawn from Rifle is implemented successfully
 
